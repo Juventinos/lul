@@ -357,7 +357,7 @@ namespace PathOfExileBot
             //Change BOTTOKEN to your bot token
             client.ExecuteAndWait(async () =>
             {
-                await client.Connect("BOTTOKEN", TokenType.Bot);
+                await client.Connect("Mzc0Njk5MjQ3NTExMTQyNDAw.DNlHiQ.Sizco_mfuR36ah2Y-pJFuGS4EAk", TokenType.Bot);
             });
         }
 
